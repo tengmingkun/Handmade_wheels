@@ -66,6 +66,7 @@
 //         if(task==nullptr)
 //             continue;
 //         task->process();
+            delete this;
 
 //     }
 
